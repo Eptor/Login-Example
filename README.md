@@ -48,5 +48,5 @@ GUI.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-- **[MIT license](http://opensource.org/licenses/)**
-- Copyright 2015 © Eptor.
+- **[GPL v3 license](http://opensource.org/licenses/)**
+- Copyright 2020 © Eptor.
