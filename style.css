@@ -1,0 +1,27 @@
+QLabel
+{
+    color: white;
+}
+
+#centralwidget, QMessageBox
+{
+    background-color: #191919;
+}
+
+QPushButton
+{
+    color: white;
+    border: 1px solid white;
+    border-radius: 10;
+}
+
+QPushButton:hover:!pressed
+{
+    border-color: green;
+}
+
+QLineEdit
+{
+    border: 1px solid white;
+    border-radius: 10;
+}
