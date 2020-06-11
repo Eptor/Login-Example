@@ -44,4 +44,4 @@ class Ui_login_window(object):
         login_window.setWindowTitle(_translate("login_window", "Login"))
         self.login_button.setText(_translate("login_window", "LOGIN"))
         self.user_input.setPlaceholderText(_translate("login_window", "USERNAME"))
-        self.password_input.setPlaceholderText(_translate("login_window", "CONTRASEÑA"))
+        self.password_input.setPlaceholderText(_translate("login_window", "PASSWORD"))
